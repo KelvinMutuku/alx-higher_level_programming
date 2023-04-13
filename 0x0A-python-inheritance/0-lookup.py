@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-# 0-lookup.py
-# Kelvinmutuku
-"""Defines an object attribute lookup function."""
+#KelvinMutuku
+"""To lookup the list of avaliable attr and methods"""
 
 
 def lookup(obj):
-    """Return a list of an object's available attributes."""
+    """return available attr and methods in an object"""
     return (dir(obj))
