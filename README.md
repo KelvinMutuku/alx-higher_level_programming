@@ -25,4 +25,4 @@ contained follows:
 
 ## Author :Kelvin Mutuku:
 
-* __Kelvin Mutuku__ <https://github.com/Kelvin Mutuku>
+* __Kelvin Mutuku__ <https://github.com/KelvinMutuku>
