@@ -1,4 +1,4 @@
-#alx-higher_level_programming - Python & SQL programming.
+# alx-higher_level_programming - Python & SQL programming.
 
 This repository contains projects developed in python & SQL
 for the alx-higher_level_programming
