@@ -1,6 +1,6 @@
 # alx-higher_level_programming - Python & SQL programming.
 
-This repository contains projects developed in python & SQL
+This repository contains projects developed in Python & SQL
 for the alx-higher_level_programming
 In these projects, I worked with Bash and practiced
 writing Bash scripts to automate tasks. I learned about the OSI model and
@@ -22,7 +22,11 @@ contained follows:
 * [0x0C. Python - Almost a circle](./0x0C-python-almost_a_circle)
 * [0x0D. SQL - Introduction](./0x0D-SQL_introduction)
 * [0x0E. SQL - More queries](./0x0E-SQL_more_queries)
-
-## Author :Kelvin Mutuku:
+* [0x0F. Python - Object-relational mapping](./0x0F-python-object_relational_mapping)
+* [0x10. Python - Network #0 ](./0x10-python-network_0)
+* [0x11. Python - Network #1](./0x11-python-network_1)
+* [0x12. JavaScript - Warm up](./0x12-javascript-warm_up)
+* [0x13. JavaScript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
+## Author: Kelvin Mutuku:
 
 * __Kelvin Mutuku__ <https://github.com/KelvinMutuku>
