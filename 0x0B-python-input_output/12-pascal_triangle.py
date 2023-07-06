@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 14-pascal_triangle.py
+# 12-pascal_triangle.py
 # KelvinMutuku
 """Defines a Pascal's Triangle function."""
 

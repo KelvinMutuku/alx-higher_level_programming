@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 12-student.py
+# 10-student.py
 # KelvinMutuku
 """Defines a class Student."""
 
