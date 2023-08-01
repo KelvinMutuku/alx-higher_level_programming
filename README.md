@@ -27,6 +27,7 @@ contained follows:
 * [0x11. Python - Network #1](./0x11-python-network_1)
 * [0x12. JavaScript - Warm up](./0x12-javascript-warm_up)
 * [0x13. JavaScript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
+* [0x14. JavaScript - Web scraping](./0x14-javascript-web_scraping)
 ## Author: Kelvin Mutuku:
 
 * __Kelvin Mutuku__ <https://github.com/KelvinMutuku>
